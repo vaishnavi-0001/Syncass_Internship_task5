@@ -1,0 +1,2 @@
+This file demonstrates a merge operation.
+Changes from the feature branch are merged into the main branch using a pull request.
