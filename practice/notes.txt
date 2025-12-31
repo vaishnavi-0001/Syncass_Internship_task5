@@ -1,0 +1,2 @@
+This project was created to practice basic Git commands
+as part of the internship Task 5.

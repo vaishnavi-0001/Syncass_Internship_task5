@@ -1,16 +1,12 @@
-# Git & GitHub Internship Task 5
+# 📚 Library Management System  
+## Git & GitHub Internship – Task 5
 
 ## Objective
 To understand Git and GitHub basics through a simple project.
 
-## What I Learned
-- Git initialization
-- Adding and committing files
-- Using GitHub repository
-- Basic project structure
-# 📚 Library Management System
-
-A simple Library Management System built using HTML, CSS, and JavaScript.
+## Project Overview
+A simple **Library Management System** built using **HTML, CSS, and JavaScript**.  
+This project demonstrates basic frontend functionality along with proper Git and GitHub workflow.
 
 ## Features
 - Add books to the library
@@ -22,8 +18,19 @@ A simple Library Management System built using HTML, CSS, and JavaScript.
 - CSS
 - JavaScript
 
+## What I Learned
+- Git initialization
+- Adding and committing files
+- Using GitHub repositories
+- Branching and merging
+- Resolving merge conflicts
+- Maintaining basic project structure
+
 ## Purpose
-This project was created as part of **Internship Task 5** to practice GitHub project creation and version control.
+This project was created as part of **Internship Task 5** to practice GitHub project creation, version control, and collaboration workflow.
+
+## Status
+✅ Task completed successfully.
 
 ## Author
-Vaishnavi Agrawal
+**Vaishnavi Agrawal**
